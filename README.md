@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Python developer interested in AI, DS, and LLMs
 
 ## About Me
 
